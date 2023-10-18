@@ -1,0 +1,7 @@
+3a
+Intervalul de timp intre doua esantioane este de 1/2000 = 0,0005 secunde
+
+3b
+Un esantion este 4 biti deci 0,5 bytes.
+O ora de achizitie, adica 3600 de secunde de achizitii vor genera 2000 * 3600 = 7.200.000 esantioane
+In bytes ar insemna 0,5 * 7.200.000 = 3.600.000 bytes, sau aprox. 3,6 MB.
