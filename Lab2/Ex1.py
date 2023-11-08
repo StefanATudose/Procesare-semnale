@@ -123,6 +123,7 @@ plt.ylabel('Amplitudine')
 plt.title('Semnal de tip sawtooth de frecventa 240 Hz')
 plt.grid()
 plt.show()
+
 #2 d
 
 def f_d(t):

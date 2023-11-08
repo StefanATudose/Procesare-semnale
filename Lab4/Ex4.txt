@@ -1,0 +1,9 @@
+Semnalul de contrabas descris este unul trece-banda, aflat in intervalul [40Hz, 200Hz].
+
+Prin urmare, B-ul din ecuatie are aici valoarea 200.
+
+Frecventa minima de esantionare (Fs) trebuie sa respecte proprietatea:
+
+Fs > 2 * B
+
+Asadar, Fs va avea valoarea 401.

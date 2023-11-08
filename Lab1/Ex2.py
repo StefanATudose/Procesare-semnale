@@ -54,9 +54,9 @@ def f_d(t):
     return np.sign(np.sin(600*np.pi*t))
 
 
-semnal_c = list(map(f_d, axa_reale))
+semnal_d = list(map(f_d, axa_reale))
 
-plt.plot(axa_reale[:500], semnal_c[:500])
+plt.plot(axa_reale[:500], semnal_d[:500])
 plt.xlabel('Timp')
 plt.ylabel('Amplitudine')
 plt.title('Semnal de tip square de frecventa 300 Hz')

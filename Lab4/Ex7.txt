@@ -1,0 +1,6 @@
+SNRdb = Psemnal_db / Pzgomot_db
+
+80db = 90db / Pzgomot_db => Pzgomot_db = 10 db = 10 ^ 10 watts
+
+
+
